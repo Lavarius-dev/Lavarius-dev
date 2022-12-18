@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavarius-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lavarius-dev" /> </p>
 
-- 🌱 I’m currently learning **Kotlin, Java, Python, Android, JUnit**
+- 🌱 I’m currently learning **Python, Flask, SQLAlchemy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lavarius-dev?tab=repositories](https://github.com/Lavarius-dev?tab=repositories)
 
